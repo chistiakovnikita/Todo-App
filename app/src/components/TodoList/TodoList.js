@@ -1,4 +1,4 @@
-import Todo from '../Todo/Todo'
+import Todo from '../Todo'
 
 function TodoList(props) {
     const { todos, deleteTodo, toggleTodo } = props

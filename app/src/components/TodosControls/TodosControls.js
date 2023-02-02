@@ -1,5 +1,5 @@
 import { RiDeleteBin6Line, RiRefreshLine } from 'react-icons/ri'
-import Button from '../UI/Button/Button'
+import Button from '../UI/Button'
 
 function TodosControls(props) {
     const { resetTodos, deleteComletedTodos, comletedTodos } = props

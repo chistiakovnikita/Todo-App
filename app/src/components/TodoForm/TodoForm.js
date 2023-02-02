@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import styles from './todoForm.module.css'
-import Button from '../UI/Button/Button'
+import Button from '../UI/Button'
 
 
 function TodoForm(props) {
